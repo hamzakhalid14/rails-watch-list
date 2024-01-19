@@ -61,6 +61,7 @@ group :development do
 
 
 end
+
 gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
   gem "bootstrap", "~> 5.2"
 gem "autoprefixer-rails"
